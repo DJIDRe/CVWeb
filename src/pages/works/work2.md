@@ -1,22 +1,18 @@
 ---
-title: Tactical Team Leader
-date: 1985 - 1990
-url: http://atawajof.dz/vonilzor
-location: Los Angeles, California
-org: Los Angeles County Sheriff's Department – SWAT Division
-tags:
-  [
-    "SWAT",
-    "Surveillance",
-    "Undercover Operations",
-    "Evidence Gathering",
-    "Case Solving",
-    "Interviewing Skills",
-  ]
+title: Analista de Gestión de Ventas
+date: Febrero 2020 - Noviembre 2020
+url: https://www.ccu.cl/
+location: Chile
+org: CCU SA
+tags: [
+    "Consultas SQL y análisis de datos.", 
+    "Automatización de reportes en Excel.", 
+    "Generación de informes para marketing y ventas.", 
+    "Manejo de datos para la toma de decisiones."
+    ]
 ---
 
-- Led SWAT operations in high-risk situations, including hostage rescues, armed standoffs, and counter-terrorism missions.
-- Developed and implemented tactical plans tailored to specific scenarios, ensuring the safety of hostages, civilians, and law enforcement personnel.
-- Conducted specialized training for SWAT team members in firearms proficiency, close-quarters combat, tactical movement, and hostage negotiation.
-- Coordinated with local, state, and federal agencies to support joint operations and enhance interagency cooperation.
-- Provided expertise and assistance in the planning and execution of high-profile security details for visiting dignitaries, VIPs, and major events.
+- Creación y automatización de reportes diarios para ventas y marketing.
+- Consultas SQL para análisis de datos del área de ventas.
+- Visualización de datos y generación de informes en Excel.
+- Automatización del envío de reportes diarios a las jefaturas y usuarios finales.

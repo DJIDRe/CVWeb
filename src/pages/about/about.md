@@ -7,14 +7,10 @@ pronouns: "el"
 website: ""
 ---
 
-Licenciado en Ciencia de la Computacion egresado de la Universidad de Santiago de Chile (USACH) el año 2023. 
+Soy José Ignacio Drouilly Delucchi, Licenciado en Ciencia de la Computación de la Universidad de Santiago de Chile. Me especializo en análisis de datos y tecnologías en la nube, y cuento con certificaciones como AWS Re/Start y en Business Analytics con Inteligencia Artificial.
 
-Tengo experiencia en diversos lenguajes de programacion, como lo son Python, Javascript, Java, C, C++ y habiendo desarrollado en frameworks como Django, Flask, NodeJs o Spring Boot.
+Mi experiencia laboral incluye roles como Analista de Gestión de Ventas en CCU SA, donde desarrollé informes en SQL y Excel para áreas de ventas y marketing, y como Ingeniero de QA en HakaLab, donde diseñé planes de prueba para aplicaciones web.
 
+Entre mis habilidades, destaco el manejo de algoritmos y estructuras de datos, computación en la nube, análisis de datos, desarrollo web full stack y gestión de proyectos. Además, poseo habilidades en comunicación efectiva, trabajo en equipo y adaptabilidad, esenciales para impulsar la innovación en las organizaciones.
 
-Mi fuerte es el trabajo colaborativo, ayudar al resto, para asi ir adquiriendo mejores conocimiento de diversas areas e ir incorporandolas a mi vision sobre la ciencia de la computacion, esto lo llevo a cabo dia a dia pensando en que cosas se pueden solucionar mediante algun algoritmo o algun software para mejorarle la vida al resto de la gente.
-
-Me gustan los videojuegos, especificamente los RPG como lo son Pokemon, Shin Megami Tensei, Persona y la saga Xenoblade, el anime siendo mi favorito One Piece, ultimamente me he decantado por el kpop como genero musical, aunque vacilo reggeton viejito y rock progresivo.
-
-me gusta la cocina 
-
+Estoy interesado en integrar soluciones tecnológicas que optimicen procesos y mejoren la toma de decisiones en las empresas.
