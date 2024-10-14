@@ -10,7 +10,7 @@ const studies = await Astro.glob("../pages/studies/*.md");
 const certificates = await Astro.glob("../pages/certificates/*.md");
 const blogs = await Astro.glob("../pages/blogs/*.md");
 const contact = await Astro.glob("../pages/contact/*.md");
-const PDF = "/cv-20240219.pdf";
+const PDF = "/CV_JDDelucchi.pdf";
 ---
 
 <div class="join join-vertical gap-1">
@@ -55,7 +55,7 @@ const PDF = "/cv-20240219.pdf";
     }
   </AccordionLayout>
 
-  <AccordionLayout title={"Proyectos"} icon={"carbon:tools"}>
+<!--   <AccordionLayout title={"Proyectos"} icon={"carbon:tools"}>
     {
       projects.map((item) => {
         return (
@@ -70,7 +70,7 @@ const PDF = "/cv-20240219.pdf";
         );
       })
     }
-  </AccordionLayout>
+  </AccordionLayout> -->
 
   <AccordionLayout title={"Certificaciones"} icon={"carbon:certificate"}>
     {
@@ -89,7 +89,7 @@ const PDF = "/cv-20240219.pdf";
     }
   </AccordionLayout>
 
-  <AccordionLayout title={"Blogs"} icon={"carbon:pen"}>
+<!--   <AccordionLayout title={"Blogs"} icon={"carbon:pen"}>
     {
       blogs.map((item) => {
         return (
@@ -103,7 +103,7 @@ const PDF = "/cv-20240219.pdf";
         );
       })
     }
-  </AccordionLayout>
+  </AccordionLayout> -->
 
   <AccordionLayout title={"Archivos"} icon={"carbon:volume-file-storage"}>
     <div class="flex justify-center w-full">
@@ -114,12 +114,12 @@ const PDF = "/cv-20240219.pdf";
           <object data={PDF} type="application/pdf" width="100%"></object>
         </figure>
         <div class="card-body">
-          <h2 class="card-title">Resume</h2>
-          <p>View and download my resume by clicking on the button below</p>
+          <h2 class="card-title">Curriculum Vitae</h2>
+          <p>Ver y descargar mi curriculum vitae haciendo clic en el botón de abajo</p>
           <div class="card-actions justify-end">
             <a target="_blank" href={PDF}>
               <button class="btn btn-outline">
-                <p>Download resume</p>
+                <p>Descarga CV</p>
                 <Icon name="carbon:document-pdf" class="w-6 h-6 ml-1" />
               </button>
             </a>
