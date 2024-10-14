@@ -7,8 +7,8 @@ date: 2024-2024
 tags:
   [
     "Modelado de datos para inteligencia de negocios.",
-    "Implementación de algoritmos de aprendizaje automático.",
     "Visualización avanzada de datos.",
     "Uso de herramientas de analítica predictiva.",
+    "Implementación de algoritmos de aprendizaje automático.",
   ]
 ---
