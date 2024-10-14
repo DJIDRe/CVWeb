@@ -8,6 +8,6 @@ tags: [
     "Diseño y análisis de algoritmos.", 
     "Programación orientada a objetos (Java, Python).", 
     "Optimización de estructuras de datos.", 
-    "Gestión de proyectos de software bajo metodologías ágiles (SCRUM).",
+    "Gestión de proyectos con metodologías ágiles (SCRUM).",
     ]
 ---
